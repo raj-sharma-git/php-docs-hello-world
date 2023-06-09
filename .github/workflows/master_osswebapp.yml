@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'osswebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A267663142844442865EFD75ACF4BCC3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8F757C2A7C04973A1900312F31B6F1B }}
           package: .
